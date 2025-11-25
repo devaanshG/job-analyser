@@ -30,7 +30,7 @@ This repository includes a GitHub Actions workflow that runs unit tests on pushe
 
 To show the status in `README` (example badge):
 
-![CI status](https://github.com/<OWNER>/<REPO>/actions/workflows/ci.yml/badge.svg)
+![CI status](https://github.com/devaanshG/job-analyser/actions/workflows/ci.yml/badge.svg)
 
 Notes & safety
 
