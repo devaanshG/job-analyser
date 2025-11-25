@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+lxml
+pandas
+pyyaml
+tqdm
+rapidfuzz
+python-dateutil
+pytest
+seaborn
+matplotlib
+playwright  # optional; only required if JS rendering needed
